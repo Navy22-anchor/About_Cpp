@@ -6,7 +6,7 @@ inline void keep_window_open() {char ch; cin>>ch;}
 
 int main() // C++ 프로그램은 main 함수로 시작한다.
 {
-    cout << "Hello, World!\n";
+    cout << "Hello, programming!\nHere we go!";
     keep_window_open();
     return 0;
 }
