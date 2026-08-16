@@ -1,0 +1,1 @@
+for (string word; cin>>word;) words.push_back(word);
