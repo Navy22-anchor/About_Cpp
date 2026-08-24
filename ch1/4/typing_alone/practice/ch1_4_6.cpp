@@ -12,6 +12,9 @@ int main() {
         cin >> b;
         cin >> end;
         
+        double max = 0.0;
+        double min = 0.0;
+        
         if (a<b) {
             cout << "더 작은 : " << a << "\t더 큰 : " << b << "\n";
             if ((b-a)<0.01) {
